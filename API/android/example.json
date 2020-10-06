@@ -1,25 +1,29 @@
 {
   "status": 200,
-  "values": [
+  "data": [
     {
       "name": "11.115",
       "light": "230",
-      "humidity": "55"
+      "humidity": "55",
+      "date": "06-10-2020 17:42"
     },
     {
       "name": "11.116",
       "light": "250",
-      "humidity": "65"
+      "humidity": "65",
+      "date": "06-10-2020 17:42"
     },
     {
       "name": "11.117",
       "light": "230",
-      "humidity": "55"
+      "humidity": "55",
+      "date": "06-10-2020 17:42"
     },
     {
       "name": "11.118",
       "light": "230",
-      "humidity": "55"
+      "humidity": "55",
+      "date": "06-10-2020 17:42"
     }
   ]
 }
