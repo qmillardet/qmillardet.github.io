@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "values": [
+    {
+      "name": "11.115",
+      "light": "230",
+      "humidity": "55"
+    },
+    {
+      "name": "11.116",
+      "light": "250",
+      "humidity": "65"
+    },
+    {
+      "name": "11.117",
+      "light": "230",
+      "humidity": "55"
+    },
+    {
+      "name": "11.118",
+      "light": "230",
+      "humidity": "55"
+    }
+  ]
+}
