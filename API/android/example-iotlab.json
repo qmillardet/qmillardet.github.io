@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "timestamp": 1411848808,
+      "label": "temperature",
+      "value": 24.0,
+      "mote": "219.98"
+    },
+    {
+      "timestamp": 1411848831,
+      "label": "temperature",
+      "value": 23.6,
+      "mote": "45.141"
+    }
+  ]
+}
