@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "timestamp": 1608319627000,
+      "label": "battery_voltage",
+      "value": 2.55,
+      "mote": "9.138"
+    },
+    {
+      "timestamp": 1608333765000,
+      "label": "battery_voltage",
+      "value": 2.65,
+      "mote": "111.130"
+    },
+    {
+      "timestamp": 1608333792000,
+      "label": "battery_voltage",
+      "value": 2.54,
+      "mote": "151.105"
+    },
+    {
+      "timestamp": 1608318690000,
+      "label": "battery_voltage",
+      "value": 2.54,
+      "mote": "32.131"
+    },
+    {
+      "timestamp": 1608317048000,
+      "label": "battery_voltage",
+      "value": 2.55,
+      "mote": "97.145"
+    },
+    {
+      "timestamp": 1608333830000,
+      "label": "battery_voltage",
+      "value": 2.71,
+      "mote": "120.99"
+    },
+    {
+      "timestamp": 1608333829000,
+      "label": "battery_voltage",
+      "value": 2.69,
+      "mote": "200.124"
+    },
+    {
+      "timestamp": 1608328104000,
+      "label": "battery_voltage",
+      "value": 2.55,
+      "mote": "53.105"
+    },
+    {
+      "timestamp": 1608319627000,
+      "label": "light1",
+      "value": 202.86,
+      "mote": "9.138"
+    },
+    {
+      "timestamp": 1608333765000,
+      "label": "light1",
+      "value": 167.14,
+      "mote": "111.130"
+    },
+    {
+      "timestamp": 1608333792000,
+      "label": "light1",
+      "value": 188.57,
+      "mote": "151.105"
+    },
+    {
+      "timestamp": 1608318690000,
+      "label": "light1",
+      "value": 171.43,
+      "mote": "32.131"
+    },
+    {
+      "timestamp": 1608317048000,
+      "label": "light1",
+      "value": 174.29,
+      "mote": "97.145"
+    },
+    {
+      "timestamp": 1608333830000,
+      "label": "light1",
+      "value": 148.57,
+      "mote": "120.99"
+    },
+    {
+      "timestamp": 1608333829000,
+      "label": "light1",
+      "value": 158.57,
+      "mote": "200.124"
+    },
+    {
+      "timestamp": 1608328104000,
+      "label": "light1",
+      "value": 187.14,
+      "mote": "53.105"
+    },
+    {
+      "timestamp": 1608319627000,
+      "label": "temperature",
+      "value": -39.5,
+      "mote": "9.138"
+    },
+    {
+      "timestamp": 1608333765000,
+      "label": "temperature",
+      "value": 20.92,
+      "mote": "111.130"
+    },
+    {
+      "timestamp": 1608333792000,
+      "label": "temperature",
+      "value": 2.96,
+      "mote": "151.105"
+    },
+    {
+      "timestamp": 1608318690000,
+      "label": "temperature",
+      "value": -39.6,
+      "mote": "32.131"
+    },
+    {
+      "timestamp": 1608317048000,
+      "label": "temperature",
+      "value": -39.6,
+      "mote": "97.145"
+    },
+    {
+      "timestamp": 1608333830000,
+      "label": "temperature",
+      "value": 21,
+      "mote": "120.99"
+    },
+    {
+      "timestamp": 1608333829000,
+      "label": "temperature",
+      "value": 21.08,
+      "mote": "200.124"
+    },
+    {
+      "timestamp": 1608328104000,
+      "label": "temperature",
+      "value": 18.48,
+      "mote": "53.105"
+    },
+    {
+      "timestamp": 1608319627000,
+      "label": "humidity",
+      "value": 31.64,
+      "mote": "9.138"
+    },
+    {
+      "timestamp": 1608333765000,
+      "label": "humidity",
+      "value": 46.22,
+      "mote": "111.130"
+    },
+    {
+      "timestamp": 1608333792000,
+      "label": "humidity",
+      "value": 34.56,
+      "mote": "151.105"
+    },
+    {
+      "timestamp": 1608318690000,
+      "label": "humidity",
+      "value": 21.52,
+      "mote": "32.131"
+    },
+    {
+      "timestamp": 1608317048000,
+      "label": "humidity",
+      "value": 25.81,
+      "mote": "97.145"
+    },
+    {
+      "timestamp": 1608333830000,
+      "label": "humidity",
+      "value": 44.44,
+      "mote": "120.99"
+    },
+    {
+      "timestamp": 1608333829000,
+      "label": "humidity",
+      "value": 44.68,
+      "mote": "200.124"
+    },
+    {
+      "timestamp": 1608328104000,
+      "label": "humidity",
+      "value": 32.45,
+      "mote": "53.105"
+    }
+  ]
+}
