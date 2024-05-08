@@ -1,0 +1,36 @@
+{
+  "lightshows"  : [
+    {
+      "name" : "Top Gun",
+      "urls" : {
+        "fseq" : "https://qmillardet.github.io/API/LightshowManager/topGun.fseq",
+        "mp3" : "https://qmillardet.github.io/API/LightshowManager/topGun.mp3"
+      },
+      "img" : null
+    },
+    {
+      "name" : "SOS fantome",
+      "urls" : {
+        "fseq" : "https://qmillardet.github.io/API/LightshowManager/topGun.fseq",
+        "mp3" : "https://qmillardet.github.io/API/LightshowManager/topGun.mp3"
+      },
+      "img" : null
+    },
+    {
+      "name" : "Avatar",
+      "urls" : {
+        "fseq" : "https://qmillardet.github.io/API/LightshowManager/topGun.fseq",
+        "mp3" : "https://qmillardet.github.io/API/LightshowManager/topGun.mp3"
+      },
+      "img" : null
+    },
+    {
+      "name" : "Harry Potter",
+      "urls" : {
+        "fseq" : "https://qmillardet.github.io/API/LightshowManager/topGun.fseq",
+        "mp3" : "https://qmillardet.github.io/API/LightshowManager/topGun.mp3"
+      },
+      "img" : null
+    },
+  ]
+}
